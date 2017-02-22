@@ -68,6 +68,3 @@ plt.figure(2) #
 plt.plot(B[0,:])
 plt.ylim([-5,100]) #
 
-
-
-
