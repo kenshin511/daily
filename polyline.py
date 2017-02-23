@@ -6,7 +6,9 @@ import matplotlib.pyplot as plt
 
 # def triWave(L(길이), thick, 배율(a) )
 thick = 5
-img = np.zeros((50, 100), np.uint8)
+h = 50
+w = 100
+img = np.zeros((h, w), np.uint8)
 
 # +x,y 좌표 계산 함수 
 
